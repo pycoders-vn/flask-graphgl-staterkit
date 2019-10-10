@@ -13,5 +13,4 @@ This starter-kit is a simple flask project for getting started Flask application
 $ git clone https://github.com/pycodersvn/flask-graphgl-staterkit
 $ cd flask-graphgl-staterkit
 $ docker-compose up
-```# flask-graphgl-staterkit
-# flask-graphgl-staterkit
+```
